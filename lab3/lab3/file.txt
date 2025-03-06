@@ -1,0 +1,9 @@
+root
+.folder1
+..file1.cpp
+..file2.txt
+.folder2
+..file3.cpp
+..subfolder
+...file4.cpp
+.folder3
